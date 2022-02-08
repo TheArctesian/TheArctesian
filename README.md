@@ -1,2 +1,2 @@
-![](https://github.com/TheArctesian/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TheArctesian/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/TheArctesian/stats/blob/master/generated/overview.svg)
+![](https://github.com/TheArctesian/stats/blob/master/generated/languages.svg)
