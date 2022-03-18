@@ -41,7 +41,7 @@
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepngimg.com%2Fthumb%2Fsymbol%2F58925-olinuxino-logo-arch-linux-free-png-hq.png&f=1&nofb=1" alt="linux" width="40" height="40"/>
     </a> btw
-<h4 align="left">I love to use but don't have the time to do everydday: </h4>
+<h4 align="left">I love to use but don't have the time to do everyday: </h4>
         <a href="https://unity.com/" target="_blank" rel="noreferrer">
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-n9YqjJCKHak%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FFJmfOSwUIuc%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1" alt="unity" width="40" height="40"/>
         </a>
