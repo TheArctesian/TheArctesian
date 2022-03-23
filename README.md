@@ -38,8 +38,11 @@
     <a href="https://ipfs.io/" target="_blank" rel="noreferrer">
             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.marcus-povey.co.uk%2Fwp-content%2F800px-Ipfs-logo-1024-ice-text-668x668.png&f=1&nofb=1" alt="git" width="40" height="40"/>
     </a>
+     <a href="https://gentoo.org/" target="_blank" rel="noreferrer">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fjgkim%2Fgentoo-docker%2Fmaster%2Flogo.png&f=1&nofb=1" alt="gentoo" width="40" height="40"/>
+    </a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepngimg.com%2Fthumb%2Fsymbol%2F58925-olinuxino-logo-arch-linux-free-png-hq.png&f=1&nofb=1" alt="linux" width="40" height="40"/>
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepngimg.com%2Fthumb%2Fsymbol%2F58925-olinuxino-logo-arch-linux-free-png-hq.png&f=1&nofb=1" alt="arch" width="40" height="40"/>
     </a> btw
 <h4 align="left">I love to use but don't have the time to do everyday: </h4>
         <a href="https://unity.com/" target="_blank" rel="noreferrer">
