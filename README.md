@@ -69,7 +69,7 @@
     </a>
     <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://duckduckgo.com/i/0e717f8b.png" alt="nginx" width="50" height="40"/>
     </a>
-<h4 align="left">I have spent to much time and will do but in protest: </h4>
+<h4 align="left">I have spent too much time and will do but in protest: </h4>
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
         </a> 
