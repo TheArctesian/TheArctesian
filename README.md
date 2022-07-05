@@ -29,8 +29,11 @@
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
             <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Frustacean.net%2Fassets%2Frustacean-flat-happy.png&f=1&nofb=1" alt="rust" width="40" height="40"/> 
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.linode.com/wp-content/uploads/2020/09/Linode_sq_Logo.png" alt="python" width="40" height="40"/> 
+    </a>
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
