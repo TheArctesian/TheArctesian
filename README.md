@@ -140,7 +140,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/stephen-okita-a9427b1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen okita" height="30" width="40" />
 </a>
-<a href="https://discord.com/users/682753580943278083" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fdiscord_logo1600.png&f=1&nofb=1" alt="stephen okita" height="40" width="40" />
+<a href="https://discord.com/users/682753580943278083" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png alt="stephen okita" height="40" width="40" />
 </a>
 <a href="https://t.me/theArctesian" target="blank"><img align="center" src="https://duckduckgo.com/i/a1db356a.png" alt="stephen okita" height="40" width="40" />
 </a>
